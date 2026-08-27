@@ -1,6 +1,5 @@
 ## Protein sequence analysis
 
-<!--
 # Code for Protein Sequence Analysis Pipeline
 
 This repository contains the Google Colab notebooks used for the protein sequence data analysis.
@@ -21,4 +20,7 @@ This repository contains the Google Colab notebooks used for the protein sequenc
 ## Data Availability
 
 Due to data confidentiality restrictions, the proteomics datasets (including Excel and FASTA files) are not publicly provided in this repository. The full dataset can be made available by the corresponding author upon reasonable request.
+
+<!--
+
 -->
