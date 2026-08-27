@@ -1,16 +1,24 @@
-## Hi there 👋
+## Protein sequence analysis
 
 <!--
-**SY-Code-1/SY-Code-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Code for Protein Sequence Analysis Pipeline
 
-Here are some ideas to get you started:
+This repository contains the Google Colab notebooks used for the protein sequence data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Overview of Notebooks
+
+- `01_Classification.ipynb`: Random Forest-based analysis of proteomics data
+- `02_Design_300aa.ipynb`: Random Forest-based design of de novo proteins (300 aa)
+- `03_Design_500aa.ipynb`: Random Forest-based design of de novo proteins (500 aa)
+- `04_Mutagenesis.ipynb`: Random Forest-based mutagenesis
+- `05_Prediction.ipynb`: Random Forest-based prediction of probabilities of belonging to High* group for input proteins
+
+## Requirements & How to Run
+
+1. Open the `.ipynb` files in [Google Colab](https://colab.research.google.com/).
+2. Run the cells sequentially from top to bottom.
+
+## Data Availability
+
+Due to data confidentiality restrictions, the proteomics datasets (including Excel and FASTA files) are not publicly provided in this repository. The full dataset can be made available by the corresponding author upon reasonable request.
 -->
